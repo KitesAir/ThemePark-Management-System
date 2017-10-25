@@ -4,6 +4,7 @@ Themepark is a place where people gets opportunity to have some fun with various
 In our system we simplified this process as much as possible and made the system to work almost independently without any person to watch.
 
 The System includes three sub systems.
+
 **1.  To Select the packages as required and purchase them.**
 This system generates a ticket with a qr code according to the selection and installed at the pc of the entrance in the Theme Park. Designed the UI for touch screen with tappable size of controls.
 
